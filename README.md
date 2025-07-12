@@ -1,0 +1,2 @@
+# strukturdata
+keuangan pribadi
